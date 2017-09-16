@@ -55,6 +55,7 @@ PRODUCT_PACKAGES += \
     ThemeInterfacer \
     OmniStyle \
     Turbo \
+    MiXplorer \
     PixelLauncherPrebuilt
 
 # DU Utils Library
